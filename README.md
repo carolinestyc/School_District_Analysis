@@ -19,7 +19,8 @@ However, after these results were shared with the School Board, they believe the
             Software: Python 3.9.7
 ## Results
 - How is the district summary affected?
-Before removing the 9th grade data for Thomas HS, the average math score was
+Before removing the 9th grade data for Thomas HS, the average math and readings scores were 79.0 & 81.9 respectively. 75% of students passing math & 86% passing reading with an overall pass rate of 65%. After removing the 9th grade data from Thomas HS, the scores fell stlightly across the board. As you can see in the second image below, the overall pass rate is now just below the previous at 64.9%. Suggesting that removing the data did not drasticlly change the averages and scores across the whole data set.
+
 ![District Summary](https://user-images.githubusercontent.com/96352625/151735493-5ed91663-48c5-46dc-88ae-a87f1700ab93.png)
 
 ![District Summary_Updated](https://user-images.githubusercontent.com/96352625/151735500-39f1fc2d-89cc-487b-9866-46c9cc3ac3e1.png)
