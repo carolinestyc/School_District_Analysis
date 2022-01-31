@@ -28,13 +28,16 @@ Before removing the 9th grade data for Thomas HS, the average math and readings 
 
 - How is the school summary affected?
 
-As illustrated in the tables below, the school summary is affected minimally by the removal of the Thomas HS 9th grade data. Besides for Thomas HS, none of the analysis changes for the other 14 schools, as is expected. Cabera HS remains at the top by overall passing with 91.33%. At the bottom of the ranking is Rodriquez HS, with under a 53% overall pass rate, even after the Thomas HS data is appended.
+As illustrated in the tables below, the school summary is affected minimally by the removal of the Thomas HS 9th grade data. Besides for Thomas HS, none of the analysis changes for the other 14 schools, as is expected. Cabera HS remains at the top by overall passing with 91.33%. At the bottom of the ranking is Rodriquez HS, with under a 53% overall pass rate, even after the Thomas HS data is appended. Thomas HS moves down to the 8th ranking, no longer in the top 5 and shifting Griffin HS up to 2nd rank.
 
 ![School Summary](https://user-images.githubusercontent.com/96352625/151746154-294dac6f-26d2-4728-95cf-fe2d055da2ce.png)
 
 ![School Summary_Updated](https://user-images.githubusercontent.com/96352625/151746675-5b83ba7b-73ff-46d2-ae91-30535c708e67.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Changing the 9th grade Thomas HS data with NaN has greatly affected Thomas High's overall performance relative to the other schools. Originally ranked 2nd among 15, after the changes, they are now in 8th place. Their previous overall pass rate of 90.95% kept them just above Griffin, Wilson, & Pena High Schools wich all had overall pass rates between 90.0% and 90.6%. Incredibly close behind Thomas High. After the changes, Thomas HS had an oveall pass rate of only 65%, dropping by nearly 25 percentage points.
+
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
     - Scores by school spending
