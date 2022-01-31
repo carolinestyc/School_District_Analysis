@@ -11,6 +11,7 @@ Maria, the Chief Data Scientist for the City School District, has hired me to an
     - School performance based on the budget per student,
     - School performance based on the school size,
     - School performance based on the type of school.
+However, after these results were shared with the School Board, they believe there may be evidence of academic dishonesty in the 9th Grade at Thomas High School. They asked me to re-run the analysis after replacing those scores with NaNs while keeping the rest of the data intact. The different results are explored below.
 ## Results
 
 ## Summary
