@@ -39,9 +39,19 @@ As illustrated in the tables below, the school summary is affected minimally by 
 Changing the 9th grade Thomas HS data with NaN has greatly affected Thomas High's overall performance relative to the other schools. Originally ranked 2nd among 15, after the changes, they are now in 8th place. Their previous overall pass rate of 90.95% kept them just above Griffin, Wilson, & Pena High Schools wich all had overall pass rates between 90.0% and 90.6%. Incredibly close behind Thomas High. After the changes, Thomas HS had an oveall pass rate of only 65%, dropping by nearly 25 percentage points.
 
 - How does replacing the ninth-grade scores affect the following:
-    - Math and reading scores by grade
+            
+            Math and reading scores by grade:
+            The changes to average scores by grade are minimal because the data change only affected Thomas HS. Thomas HS now displays "nan" for both             math and reading 9th grade averages. Other than that, the scores do not and should not change for the other schools.
+        
+ 
     - Scores by school spending
+
+
     - Scores by school size
+
+
     - Scores by school type
+
+
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
