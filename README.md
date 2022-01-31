@@ -5,12 +5,12 @@ Maria, the Chief Data Scientist for the City School District, has hired me to an
 - A high-level snapshot of the district's key metrics, presented in a table format,
 - An overview of the key metrics for each school, presented in a table format,
 - and tables presenting each of the following metrics:
-    - Top 5 and bottom 5 performing schools, based on the overall passing rate
-    - The average math score received by students in each grade level at each school
-    - The average reading score received by students in each grade level at each school
-    - School performance based on the budget per student
-    - School performance based on the school size
-    - School performance based on the type of school
+    - Top 5 and bottom 5 performing schools, based on the overall passing rate,
+    - The average math score received by students in each grade level at each school,
+    - The average reading score received by students in each grade level at each school,
+    - School performance based on the budget per student,
+    - School performance based on the school size,
+    - School performance based on the type of school.
 ## Results
 
 ## Summary
