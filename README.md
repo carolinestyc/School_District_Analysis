@@ -47,14 +47,16 @@ How does replacing the ninth-grade scores affect the following:
  
 ![Adjusted Math Scores](https://user-images.githubusercontent.com/96352625/151749812-47e255a3-24ac-4ed3-80c8-08cec48f291b.png)
 
- 
-    - Scores by school spending
+- Scores by school spending: As you can see in the tables below, there is minimal change to the overall spending per range. THe biggest change can be seen in the $630-644 range because that is the range that Thomas HS falls into. The spending per student fell about 7% in % Passing Math, % Passing Reading, and % Overall Passing in the $630-644 range. Because the test scores were removed from the data, the averages fell and spending range calculation is negatively impacted.
+
+![Spending Ranges](https://user-images.githubusercontent.com/96352625/151750001-ee3faf35-b877-469e-825c-34212b1aad46.png)
+
+![Spending Ranges_Updated](https://user-images.githubusercontent.com/96352625/151750013-64ddf6a4-90ff-4c2e-87d8-789ccf853858.png)
+
+- Scores by school size
 
 
-    - Scores by school size
-
-
-    - Scores by school type
+- Scores by school type
 
 
 ## Summary
