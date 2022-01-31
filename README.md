@@ -61,8 +61,10 @@ How does replacing the ninth-grade scores affect the following:
 
 - Scores by school type: Thomas HS is a Charter school and the change in the 9th grade data is reflected in the category. Only about a 3% change, the overall pass percentage is now only 87.20% when it was previously over 90%. % Passing Math and % Passing Reading are now at 90.33% and 93.13% respectively. The District resilts are unchanged. 
 
+### Original School Type Results
 ![School Type_Updated](https://user-images.githubusercontent.com/96352625/151750909-02b8fe14-b336-425e-b7b3-d19add238110.png)
 
+### Adjusted School Type Results
 ![School Type](https://user-images.githubusercontent.com/96352625/151750895-88eba402-a7a7-4ef9-a48d-6037d8a0ce06.png)
 
 ## Summary
