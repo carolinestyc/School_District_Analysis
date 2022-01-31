@@ -27,6 +27,8 @@ Before removing the 9th grade data for Thomas HS, the average math and readings 
 
 - How is the school summary affected?
 
+![School Summary](https://user-images.githubusercontent.com/96352625/151746154-294dac6f-26d2-4728-95cf-fe2d055da2ce.png)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
