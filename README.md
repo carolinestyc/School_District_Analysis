@@ -30,8 +30,10 @@ Before removing the 9th grade data for Thomas HS, the average math and readings 
 
 As illustrated in the tables below, the school summary is affected minimally by the removal of the Thomas HS 9th grade data. Besides for Thomas HS, none of the analysis changes for the other 14 schools, as is expected. Cabera HS remains at the top by overall passing with 91.33%. At the bottom of the ranking is Rodriquez HS, with under a 53% overall pass rate, even after the Thomas HS data is appended. Thomas HS moves down to the 8th ranking, no longer in the top 5 and shifting Griffin HS up to 2nd rank.
 
+### Original School Summary
 ![School Summary](https://user-images.githubusercontent.com/96352625/151746154-294dac6f-26d2-4728-95cf-fe2d055da2ce.png)
 
+### Adjusted School Summary
 ![School Summary_Updated](https://user-images.githubusercontent.com/96352625/151746675-5b83ba7b-73ff-46d2-ae91-30535c708e67.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -41,10 +43,11 @@ Changing the 9th grade Thomas HS data with NaN has greatly affected Thomas High'
 How does replacing the ninth-grade scores affect the following:
             
 - Math and reading scores by grade: The changes to average scores by grade are minimal because the data change only affected Thomas HS. Thomas HS now displays "nan" for both math and reading 9th grade averages. Other than that, the scores do not and should not change for the other schools. The tables below show the math scores by grade and are very similar; the new "nan" showing in the second table under Thomas HS 9th grade. 
-        
+
+### Original Math Scores
 ![Original Math Scores](https://user-images.githubusercontent.com/96352625/151749775-71328a5d-9219-402e-8caa-fad21120c84d.png)
  
- 
+### Adjusted Math Scores
 ![Adjusted Math Scores](https://user-images.githubusercontent.com/96352625/151749812-47e255a3-24ac-4ed3-80c8-08cec48f291b.png)
 
 - Scores by school spending: As you can see in the tables below, there is minimal change to the overall spending per range. THe biggest change can be seen in the $630-644 range because that is the range that Thomas HS falls into. The spending per student fell about 7% in % Passing Math, % Passing Reading, and % Overall Passing in the $630-644 range. Because the test scores were removed from the data, the averages fell and spending range calculation is impacted.
