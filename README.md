@@ -53,10 +53,18 @@ How does replacing the ninth-grade scores affect the following:
 
 ![Spending Ranges_Updated](https://user-images.githubusercontent.com/96352625/151750013-64ddf6a4-90ff-4c2e-87d8-789ccf853858.png)
 
-- Scores by school size
+- Scores by school size: The biggest change to the scores by school size when the 9th grade scores are removed is to the Medium sized group. Thomas HS is a medium sized school with 1635 students. Because the percentage passing math, reading, and overall goes down with the 9th grade change, the average across the range is also negatively impacted. As seen below, the overall passing percentage for medium schools is no only 85.45% when it was previously over 91%. This nearly 6% change can also be seen % Passing Math and % Passing Reading.
+
+![School Size](https://user-images.githubusercontent.com/96352625/151750871-52eef730-4c0f-4efe-8d98-65c5aad75edf.png)
+
+![School Size_Updated](https://user-images.githubusercontent.com/96352625/151750885-4684300a-ddb3-4693-8008-17da128fb41a.png)
 
 
 - Scores by school type
+- 
+![School Type](https://user-images.githubusercontent.com/96352625/151750895-88eba402-a7a7-4ef9-a48d-6037d8a0ce06.png)
+
+![School Type_Updated](https://user-images.githubusercontent.com/96352625/151750909-02b8fe14-b336-425e-b7b3-d19add238110.png)
 
 
 ## Summary
