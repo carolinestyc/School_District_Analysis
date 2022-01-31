@@ -49,16 +49,18 @@ How does replacing the ninth-grade scores affect the following:
 
 - Scores by school spending: As you can see in the tables below, there is minimal change to the overall spending per range. THe biggest change can be seen in the $630-644 range because that is the range that Thomas HS falls into. The spending per student fell about 7% in % Passing Math, % Passing Reading, and % Overall Passing in the $630-644 range. Because the test scores were removed from the data, the averages fell and spending range calculation is impacted.
 
+### Original Spending Ranges
 ![Spending Ranges](https://user-images.githubusercontent.com/96352625/151750001-ee3faf35-b877-469e-825c-34212b1aad46.png)
 
+### Spending Ranges Updated
 ![Spending Ranges_Updated](https://user-images.githubusercontent.com/96352625/151750013-64ddf6a4-90ff-4c2e-87d8-789ccf853858.png)
 
 - Scores by school size: The biggest change to the scores by school size when the 9th grade scores are removed is to the Medium sized group. Thomas HS is a medium sized school with 1635 students. Because the percentage passing math, reading, and overall goes down with the 9th grade change, the average across the range is also negatively impacted. As seen below, the overall passing percentage for medium schools is no only 85.45% when it was previously over 91%. This nearly 6% change can also be seen % Passing Math and % Passing Reading.
 
-        Original School Size Results
+### Original School Size Results
 ![School Size](https://user-images.githubusercontent.com/96352625/151750871-52eef730-4c0f-4efe-8d98-65c5aad75edf.png)
 
-        Adjusted School Size Results
+### Adjusted School Size Results
 ![School Size_Updated](https://user-images.githubusercontent.com/96352625/151750885-4684300a-ddb3-4693-8008-17da128fb41a.png)
 
 - Scores by school type: Thomas HS is a Charter school and the change in the 9th grade data is reflected in the category. Only about a 3% change, the overall pass percentage is now only 87.20% when it was previously over 90%. % Passing Math and % Passing Reading are now at 90.33% and 93.13% respectively. The District resilts are unchanged. 
